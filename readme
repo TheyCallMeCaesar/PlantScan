@@ -1,1 +1,5 @@
-Nothing to read rn 
+## Dataset Setup
+
+1. Download the PlantVillage dataset from [Kaggle](https://www.kaggle.com/).
+2. Unzip the dataset into a folder named `data/` in the root directory of this repository.
+3. Follow the code examples to preprocess and load the data.
